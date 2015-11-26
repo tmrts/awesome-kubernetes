@@ -36,6 +36,21 @@ A curated list of amazingly awesome resources for ``Kubernetes`` and its eco-sys
 - [Design Patterns](http://blog.arungupta.me/kubernetes-design-patterns/)
 - [Kubernetes CoreOS Workshop](https://www.youtube.com/watch?v=tA8XNVPZM2w&list=PL5zdjVWvUI4kLoQW7tU--Pp6eUI7risTE)
 
+## Examples
+- [Cassandra](https://github.com/kubernetes/kubernetes/tree/master/examples/cassandra)
+- [Celery & RabbitMQ](https://github.com/kubernetes/kubernetes/tree/master/examples/celery-rabbitmq)
+- [Elasticsearch](https://github.com/kubernetes/kubernetes/tree/master/examples/elasticsearch)
+- [Elastic Beanstalk](https://github.com/kubernetes/kubernetes/tree/master/examples/aws_ebs)
+- [Guestbook](https://github.com/kubernetes/kubernetes/tree/master/examples/guestbook)
+- [High Availability](https://github.com/kubernetes/kubernetes/tree/master/examples/high-availability)
+- [HTTP nginx](https://github.com/kubernetes/kubernetes/tree/master/examples/https-nginx)
+- [Meteor](https://github.com/kubernetes/kubernetes/tree/master/examples/meteor)
+- [NFS](https://github.com/kubernetes/kubernetes/tree/master/examples/nfs)
+- [NodeJS & MongoDB](https://github.com/kubernetes/kubernetes/tree/master/examples/nodesjs-mongodb)
+- [Phabricator](https://github.com/kubernetes/kubernetes/tree/master/examples/phabricator)
+- [Redis](https://github.com/kubernetes/kubernetes/tree/master/examples/redis)
+- [Spark](https://github.com/kubernetes/kubernetes/tree/master/examples/spark)
+
 ## Websites
 - [kubernetes.io](http://kubernetes.io)
 
