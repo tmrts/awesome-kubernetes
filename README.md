@@ -1,4 +1,7 @@
-# Awesome Kubernetes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Kubernetes
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Kubernetes Logo](https://avatars1.githubusercontent.com/u/13629408?v=3&s=200)
+
 
 A curated list of amazingly awesome resources for ``Kubernetes`` and its eco-system.
 
