@@ -19,12 +19,9 @@ A curated list of amazingly awesome resources for ``Kubernetes`` and its eco-sys
 - [Kubernetes Guestbook App Tutorial](https://cloud.google.com/container-engine/docs/tutorials/guestbook)
 - [Deploy a Multi-node Kubernetes Cluster on CentOS7](https://devops.profitbricks.com/tutorials/deploy-a-multi-node-kubernetes-cluster-on-centos-7/)
 - [Are you Ready to Manage your Infrastructure like Google?](http://www.jetstack.io/new-blog/2015/6/19/are-you-ready-to-manage-your-infrastructure-like-google-kubernetes-coming-to-a-cloud-near-you)
-- [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/)
 - [Application Containers: Kubernetes and Docker from Scratch](http://keithtenzer.com/2015/06/01/application-containers-kubernetes-and-docker-from-scratch/)
 
 ## Tools
-
-## Deployment
 
 ### Monitoring
 - [Kube-ui](https://github.com/kubernetes/kube-ui)
@@ -35,6 +32,8 @@ A curated list of amazingly awesome resources for ``Kubernetes`` and its eco-sys
 - [Sysdig](http://www.sysdig.org/)
 
 ## Resources
+- [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/)
+- [Design Patterns](http://blog.arungupta.me/kubernetes-design-patterns/)
 - [Kubernetes CoreOS Workshop](https://www.youtube.com/watch?v=tA8XNVPZM2w&list=PL5zdjVWvUI4kLoQW7tU--Pp6eUI7risTE)
 
 ## Websites
