@@ -30,6 +30,7 @@ A curated list of amazingly awesome resources for ``Kubernetes`` and its eco-sys
 - [Heapster](https://github.com/kubernetes/heapster)
 - [Prometheus](http://prometheus.io)
 - [Sysdig](http://www.sysdig.org/)
+- [Datadog](http://www.datadoghq.com)
 
 ## Resources
 - [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/)
