@@ -36,6 +36,8 @@ A curated list of amazingly awesome resources for ``Kubernetes`` and its eco-sys
 - [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/)
 - [Design Patterns](http://blog.arungupta.me/kubernetes-design-patterns/)
 - [Kubernetes CoreOS Workshop](https://www.youtube.com/watch?v=tA8XNVPZM2w&list=PL5zdjVWvUI4kLoQW7tU--Pp6eUI7risTE)
+- [Kubernetes Monitoring Guide](https://www.datadoghq.com/blog/monitoring-kubernetes-era/)
+
 
 ## Examples
 - [Cassandra](https://github.com/kubernetes/kubernetes/tree/master/examples/cassandra)
